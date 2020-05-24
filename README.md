@@ -38,4 +38,13 @@ We obtained this dataset from his personal website: http://xzh.me/
 ### Test Accuracy
 
 ![TE_ACC](Results/acc.png)
-  
+
+### Confusion Matrix
+#### CharCNN
+- Our Dataset
+
+![small_our](Results/CharCNN/cm_15epochs_ourDataset_small.png) ![large_our](Results/CharCNN/cm_15epochs_ourDataset_large.png)
+
+- Our Dataset
+
+![small_auth](Results/CharCNN/cm_15epochs_author_small.png) ![large_auth](Results/CharCNN/cm_15epochs_author_large.png)
