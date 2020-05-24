@@ -39,7 +39,9 @@ We obtained this dataset from his personal website: http://xzh.me/
 ### CharCNN
 **Author's Dataset**
 - Small Feature
-  1. Training Results:
+  1. Training Results: 
+  
+  (Results/WordCNN/train_small_author.jpg)
   2. Validation Loss Graph:
   3. Confusion Matrix:
   4. Test Results:
