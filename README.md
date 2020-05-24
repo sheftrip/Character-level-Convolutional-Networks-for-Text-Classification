@@ -42,8 +42,10 @@ We obtained this dataset from his personal website: http://xzh.me/
 ### Confusion Matrix
 #### CharCNN
 - Our Dataset
-
-<img src = "Results/CharCNN/cm_15epochs_ourDataset_small.png" width = "50%" height = "50%" > <img src = "Results/CharCNN/cm_15epochs_ourDataset_large.png" width = "50%" height = "50%" >
+<p float = "left">
+  <img src = "Results/CharCNN/cm_15epochs_ourDataset_small.png" width = "50%" height = "50%" >
+  <img src = "Results/CharCNN/cm_15epochs_ourDataset_large.png" width = "50%" height = "50%" >
+</p>
 - Our Dataset
 
 ![small_auth](Results/CharCNN/cm_15epochs_author_small.png) ![large_auth](Results/CharCNN/cm_15epochs_author_large.png)
