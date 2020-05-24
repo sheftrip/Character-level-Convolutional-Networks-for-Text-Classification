@@ -28,3 +28,8 @@ We obtained this dataset from his personal website: http://xzh.me/
 
 *Note: Please open using your BITS email ID.*
 
+## Colab Notebooks
+
+#### Cleaning.ipynb
+#### CharCNN.ipynb
+#### WordCNN.ipynb
