@@ -42,6 +42,7 @@ We obtained this dataset from his personal website: http://xzh.me/
   1. Training Results: 
   
   ![Train_Small_Author](Results/WordCNN/train_small_author.jpg)
+  
   2. Validation Loss Graph:
   3. Confusion Matrix:
   4. Test Results:
