@@ -6,7 +6,7 @@ Contributors:
 - Dishita Malav 2017A7PS0164P
 - Shefali Tripathi 2017A7PS0139P
 
-The project is currently being written using Google's Colab. 
+*All notebooks uploaded have been written using Google's Colab. We would suggest to run them using the same.*
 
 ## Data Set
 
