@@ -33,3 +33,29 @@ We obtained this dataset from his personal website: http://xzh.me/
 #### Cleaning.ipynb
 #### CharCNN.ipynb
 #### WordCNN.ipynb
+
+## Results and Inference
+
+#### CharCNN
+**Author's Dataset**
+- Small Feature
+  1. Training Results:
+  2. Validation Loss Graph:
+  3. Confusion Matrix:
+  4. Test Results:
+- Large Feature
+  1. Training Results:
+  2. Validation Loss Graph:
+  3. Confusion Matrix:
+  4. Test Results:
+**Our Dataset**
+- Small Feature
+  1. Training Results:
+  2. Validation Loss Graph:
+  3. Confusion Matrix:
+  4. Test Results:
+- Large Feature
+  1. Training Results:
+  2. Validation Loss Graph:
+  3. Confusion Matrix:
+  4. Test Results:
