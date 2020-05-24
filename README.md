@@ -13,13 +13,13 @@ Contributors:
 The datasets being used to train and test could not be uploaded due to the size being larger than 25 MB.
 We have used two datasets:
 
-#### Our Dataset
+### Our Dataset
 
 Prepared by us, by cleaning the unclean AG News Corpus of around 2 million news samples obtained from http://groups.di.unipi.it/~gulli/AG_corpus_of_news_articles.html. 
 
 **Dataset Link**: https://drive.google.com/drive/folders/1nUPhyFj164LnRKECFOcw8cpoIDShlqdP?usp=sharing
 
-#### Author's Dataset
+### Author's Dataset
 
 Prepared by one of the authors of the paper "Character-level Convolutional Networks for Text Classification", Xiang Zhang.
 We obtained this dataset from his personal website: http://xzh.me/
@@ -30,13 +30,13 @@ We obtained this dataset from his personal website: http://xzh.me/
 
 ## Colab Notebooks
 
-#### Cleaning.ipynb
-#### CharCNN.ipynb
-#### WordCNN.ipynb
+### Cleaning.ipynb
+### CharCNN.ipynb
+### WordCNN.ipynb
 
 ## Results and Inference
 
-#### CharCNN
+### CharCNN
 **Author's Dataset**
 - Small Feature
   1. Training Results:
@@ -48,6 +48,7 @@ We obtained this dataset from his personal website: http://xzh.me/
   2. Validation Loss Graph:
   3. Confusion Matrix:
   4. Test Results:
+  
 **Our Dataset**
 - Small Feature
   1. Training Results:
