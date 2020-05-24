@@ -39,10 +39,7 @@ We obtained this dataset from his personal website: http://xzh.me/
 ### CharCNN
 **Author's Dataset**
 - Small Feature
-  1. Training Results: 
-  
-  ![Train_Small_Author](Results/WordCNN/train_small_author.jpg)
-  
+  1. Training Results:  
   2. Validation Loss Graph:
   3. Confusion Matrix:
   4. Test Results:
@@ -68,24 +65,70 @@ We obtained this dataset from his personal website: http://xzh.me/
 **Author's Dataset**
 - Small Feature
   1. Training Results:
+  
+  ![Train_Small_Author](Results/WordCNN/train_small_author.jpg)
+  
   2. Validation Loss Graph:
+  
+  ![loss_small_author]((Results/WordCNN/loss_15epochs_small_author.png)
+  
   3. Confusion Matrix:
+  
+  ![cm_small_author](cm_15epochs_small_author.png)	
+  
   4. Test Results:
+  
+  ![cr_small_author](cr_small_author.png)	
+  
 - Large Feature
   1. Training Results:
+  
+  ![Train_large_Author](Results/WordCNN/train_large_author.jpg)
+  
   2. Validation Loss Graph:
+  
+  ![loss_large_author]((Results/WordCNN/loss_15epochs_large_author.png)
+  
   3. Confusion Matrix:
+  
+  ![cm_large_author](cm_15epochs_large_author.png)	
+  
   4. Test Results:
+  
+  ![cr_large_author](cr_large_author.png)
   
 **Our Dataset**
 - Small Feature
   1. Training Results:
+  
+  ![Train_Small_shef](Results/WordCNN/train_small_shef.jpg)
+  
   2. Validation Loss Graph:
+  
+  ![loss_small_shef]((Results/WordCNN/loss_15epochs_small_shef.png)
+  
   3. Confusion Matrix:
+  
+  ![cm_small_shef](cm_15epochs_small_shef.png)	
+  
   4. Test Results:
+  
+  ![cr_small_shef](cr_small_shef.png)	
+  
 - Large Feature
   1. Training Results:
+  
+  ![Train_large_shef](Results/WordCNN/train_large_shef.jpg)
+  
   2. Validation Loss Graph:
+  
+  ![loss_large_shef]((Results/WordCNN/loss_15epochs_large_shef.png)
+  
   3. Confusion Matrix:
+  
+  ![cm_large_shef](cm_15epochs_large_shef.png)	
+  
   4. Test Results:
+  
+  ![cr_large_shef](cr_large_shef.png)
   
