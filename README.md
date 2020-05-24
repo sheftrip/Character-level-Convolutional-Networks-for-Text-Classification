@@ -70,7 +70,7 @@ We obtained this dataset from his personal website: http://xzh.me/
   
   2. Validation Loss Graph:
   
-  ![loss_small_author]((Results/WordCNN/loss_15epochs_small_author.png)
+  ![loss_small_author](Results/WordCNN/loss_15epochs_small_author.png)
   
   3. Confusion Matrix:
   
@@ -87,48 +87,48 @@ We obtained this dataset from his personal website: http://xzh.me/
   
   2. Validation Loss Graph:
   
-  ![loss_large_author]((Results/WordCNN/loss_15epochs_large_author.png)
+  ![loss_large_author](Results/WordCNN/loss_15epochs_large_author.png)
   
   3. Confusion Matrix:
   
-  ![cm_large_author](cm_15epochs_large_author.png)	
+  ![cm_large_author](Results/WordCNN/cm_15epochs_large_author.jpg)	
   
   4. Test Results:
   
-  ![cr_large_author](cr_large_author.png)
+  ![cr_large_author](Results/WordCNN/cr_large_author.png)
   
 **Our Dataset**
 - Small Feature
   1. Training Results:
   
-  ![Train_Small_shef](Results/WordCNN/train_small_shef.jpg)
+  ![Train_Small_shef](Results/WordCNN/train_small_shef.png)
   
   2. Validation Loss Graph:
   
-  ![loss_small_shef]((Results/WordCNN/loss_15epochs_small_shef.png)
+  ![loss_small_shef](Results/WordCNN/loss_15epochs_small_shef.png)
   
   3. Confusion Matrix:
   
-  ![cm_small_shef](cm_15epochs_small_shef.png)	
+  ![cm_small_shef](Results/WordCNN/cm_15epochs_small_shef.png)	
   
   4. Test Results:
   
-  ![cr_small_shef](cr_small_shef.png)	
+  ![cr_small_shef](Results/WordCNN/cr_small_shef.png)	
   
 - Large Feature
   1. Training Results:
   
-  ![Train_large_shef](Results/WordCNN/train_large_shef.jpg)
+  ![Train_large_shef](Results/WordCNN/train_large_shef.png)
   
   2. Validation Loss Graph:
   
-  ![loss_large_shef]((Results/WordCNN/loss_15epochs_large_shef.png)
+  ![loss_large_shef](Results/WordCNN/loss_15epochs_large_shef.png)
   
   3. Confusion Matrix:
   
-  ![cm_large_shef](cm_15epochs_large_shef.png)	
+  ![cm_large_shef](Results/WordCNN/cm_15epochs_large_shef.png)	
   
   4. Test Results:
   
-  ![cr_large_shef](cr_large_shef.png)
+  ![cr_large_shef](Results/WordCNN/cr_large_shef.png)
   
