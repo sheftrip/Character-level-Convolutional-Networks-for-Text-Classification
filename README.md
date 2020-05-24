@@ -43,8 +43,8 @@ We obtained this dataset from his personal website: http://xzh.me/
 #### CharCNN
 - Our Dataset
 <p float = "left">
-  <img src = "Results/CharCNN/cm_15epochs_ourDataset_small.png" width = "50%" height = "50%" >
-  <img src = "Results/CharCNN/cm_15epochs_ourDataset_large.png" width = "50%" height = "50%" >
+  <img src = "Results/CharCNN/cm_15epochs_ourDataset_small.png" width = "30%" height = "30%" >
+  <img src = "Results/CharCNN/cm_15epochs_ourDataset_large.png" width = "30%" height = "30%" >
 </p>
 - Our Dataset
 
