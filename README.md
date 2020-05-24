@@ -1,9 +1,10 @@
 # Character-level-Convolutional-Networks-for-Text-Classification
 NNFL Project
 
-Contributors: -Ateeksha Mittal 2017A8PS0431P
-              -Dishita Malav 2017A7PS0164P
-              -Shefali Tripathi 2017A7PS0139P
+Contributors: 
+- Ateeksha Mittal 2017A8PS0431P
+- Dishita Malav 2017A7PS0164P
+- Shefali Tripathi 2017A7PS0139P
 
 The project is currently being written using Google's Colab. 
 
