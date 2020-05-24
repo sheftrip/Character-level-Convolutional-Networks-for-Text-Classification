@@ -74,11 +74,11 @@ We obtained this dataset from his personal website: http://xzh.me/
   
   3. Confusion Matrix:
   
-  ![cm_small_author](cm_15epochs_small_author.png)	
+  ![cm_small_author](Results/WordCNN/cm_15epochs_small_author.png)	
   
   4. Test Results:
   
-  ![cr_small_author](cr_small_author.png)	
+  ![cr_small_author](Results/WordCNN/cr_small_author.png)	
   
 - Large Feature
   1. Training Results:
@@ -91,11 +91,11 @@ We obtained this dataset from his personal website: http://xzh.me/
   
   3. Confusion Matrix:
   
-  ![cm_large_author](Results/WordCNN/cm_15epochs_large_author.jpg)	
+  ![cm_large_author](Results/WordCNN/cm_15epochs_large_author.png)	
   
   4. Test Results:
   
-  ![cr_large_author](Results/WordCNN/cr_large_author.png)
+  ![cr_large_author](Results/WordCNN/cr_large_author.jpg)
   
 **Our Dataset**
 - Small Feature
