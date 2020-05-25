@@ -96,6 +96,9 @@ This notebook contains the implementation of Word-Based Convolutional Networks u
 
 ### Inference
 
+- The models when run on the Author’s Dataset, predicts the classes of the random news samples correctly, on both large as well as small feature.
+- On our Dataset, the models don’t perform as well, which makes sense when we compare the test accuracy achieved on both the datasets.
+
 ## Setup and Execution
 
 1. Download the notebooks, Cleaning.ipynb, CharCNN.ipynb and WordCNN.ipynb., further, upload them onto your drive.
