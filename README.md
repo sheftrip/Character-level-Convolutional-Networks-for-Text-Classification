@@ -39,6 +39,7 @@ We obtained this dataset from his personal website: http://xzh.me/
 Pre-trained embedding.
 
 **Dataset Link**: https://drive.google.com/file/d/1jsieNbVR1h1o_bSuYMZvFMeUjFy1xiMa/view?usp=sharing
+
 *Note: Please open using your BITS email ID.*
 
 ## Network
@@ -113,3 +114,5 @@ This notebook contains the implementation of Word-Based Convolutional Networks u
 5. You may run Cleaning.ipynb. (Not required, since we've already done that)
 6. You can run CharCNN.ipynb and WordCNN.ipynb on either our dataset or the author's dataset *(While mounting the drive, please uncomment the path of the dataset you wish to use and comment the other)* using the small features or large feature *(While instantiating the model, please uncomment the function call you wish to use and comment the other)*
 7. Run the notebooks by clicking on Runtime >> Run All.
+
+***Please open all the DataSet links provided using your BITS email ID.***
