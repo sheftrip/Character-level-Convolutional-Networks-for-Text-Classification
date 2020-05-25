@@ -35,9 +35,11 @@ We obtained this dataset from his personal website: http://xzh.me/
 ### WordCNN.ipynb
 
 ## Results and Inference
-### Test Accuracy
+### Test Accuracy And Other Measures
 
 ![TE_ACC](Results/acc.png)
+![TE_ClassRepCharCNN](Results/Class_RepCharCNN.png)
+![TE_ClassRepWordCNN](Results/Class_RepWordCNN.png)
 
 ### Confusion Matrix
 #### CharCNN
