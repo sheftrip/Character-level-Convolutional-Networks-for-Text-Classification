@@ -47,7 +47,7 @@ This Notbook
 
 ### Random Prediction on News Samples
 
-![TE_ClassRepWordCNN](Results/'Random Prediction'.png)
+![TE_ClassRepWordCNN](Results/Random-Prediction.png)
 
 ### Confusion Matrix
 #### CharCNN
