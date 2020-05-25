@@ -1,5 +1,5 @@
 # Character-level-Convolutional-Networks-for-Text-Classification
-NNFL Project
+**NNFL Project: Paper ID: 113**
 
 Contributors: 
 - Ateeksha Mittal 2017A8PS0431P
@@ -7,6 +7,11 @@ Contributors:
 - Shefali Tripathi 2017A7PS0139P
 
 *All notebooks uploaded have been written using Google's Colab. We would suggest to run them using the same.*
+
+## Problem Statement
+
+- Implement Character-level Convolutional Network for Text Classification on the AG News dataset using PyTorch.
+- Compare the results obtained with that of   Word-Based Convolutional Network for Text Classification on the same dataset. 
 
 ## Data Set
 
@@ -28,14 +33,18 @@ We obtained this dataset from his personal website: http://xzh.me/
 
 *Note: Please open using your BITS email ID.*
 
+## Network
+
+![mod](Data/model.png)
+
 ## Colab Notebooks
 
 ### Cleaning.ipynb
 The notebook contains the code used to clean the AG News Corpus. Running this notebook results in the clean csv files being saved into drive folder, whose link we have provided. *(We have already provided the cleaned files in said folder for ease)*
 ### CharCNN.ipynb
-This Notbook
+This notebook contains the implementation of Character-Based Convolutional Networks used to classify news samples from the AG News Corpus. 
 ### WordCNN.ipynb
-
+This notebook contains the implementation of Word-Based Convolutional Networks used to classify news samples from the AG News Corpus. 
 ## Results and Inference
 ### Test Accuracy And Other Measures
 
