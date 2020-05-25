@@ -12,6 +12,7 @@ Contributors:
 
 - Implement Character-level Convolutional Network for Text Classification on the AG News dataset using PyTorch.
 - Compare the results obtained with that of   Word-Based Convolutional Network for Text Classification on the same dataset. 
+- [Papers](Papers)
 
 ## Data Set
 
