@@ -45,6 +45,10 @@ This Notbook
 
 ![TE_ClassRepWordCNN](Results/Class_RepWordCNN.png)
 
+### Random Prediction on News Samples
+
+![TE_ClassRepWordCNN](Results/Random Prediction.png)
+
 ### Confusion Matrix
 #### CharCNN
 - Our Dataset
