@@ -31,6 +31,11 @@ We obtained this dataset from his personal website: http://xzh.me/
 
 **Dataset Link**: https://drive.google.com/drive/folders/1vZ1agGTdHJDX455Vnl7Y1TW9eXqhUhWx?usp=sharing
 
+### Embedding
+
+Pre-trained embedding.
+
+**Dataset Link**: https://drive.google.com/file/d/1jsieNbVR1h1o_bSuYMZvFMeUjFy1xiMa/view?usp=sharing
 *Note: Please open using your BITS email ID.*
 
 ## Network
@@ -53,10 +58,6 @@ This notebook contains the implementation of Word-Based Convolutional Networks u
 ![TE_ClassRepCharCNN](Results/Class_RepCharCNN_1.png)
 
 ![TE_ClassRepWordCNN](Results/Class_RepWordCNN.png)
-
-### Random Prediction on News Samples
-
-![Rand](Results/Random_Prediction.png)
 
 ### Confusion Matrix
 #### CharCNN
@@ -89,3 +90,18 @@ This notebook contains the implementation of Word-Based Convolutional Networks u
   <img src = "Results/WordCNN/cm_15epochs_large_author.png" width = "40%" height = "40%" >
 </p>
 
+### Random Prediction on News Samples
+
+![Rand](Results/Random_Prediction.png)
+
+### Inference
+
+## Setup and Execution
+
+1. Download the notebooks, Cleaning.ipynb, CharCNN.ipynb and WordCNN.ipynb., further, upload them onto your drive.
+2. Open the Notebooks with Google's Colab.
+3. Download the [Pre-Trained Word Embeddings](https://drive.google.com/file/d/1jsieNbVR1h1o_bSuYMZvFMeUjFy1xiMa/view?usp=sharing), upload it directly on your Google Drive.
+4. Create shortcuts of the [Author's Dataset](https://drive.google.com/drive/folders/1vZ1agGTdHJDX455Vnl7Y1TW9eXqhUhWx?usp=sharing) and [Our Dataset](https://drive.google.com/drive/folders/1nUPhyFj164LnRKECFOcw8cpoIDShlqdP?usp=sharing) in your Drive.
+5. You may run Cleaning.ipynb. (Not required, since we've already done that)
+6. You can run CharCNN.ipynb and WordCNN.ipynb on either our dataset or the author's dataset *(While mounting the drive, please uncomment the path of the dataset you wish to use and comment the other)* using the small features or large feature *(While instantiating the model, please uncomment the function call you wish to use and comment the other)*
+7. Run the notebooks by clicking on Runtime >> Run All.
