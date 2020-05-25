@@ -65,14 +65,14 @@ This Notbook
 - Our Dataset
 
 <p float = "left">
-  <img src = "Results/CharCNN/cm_15epochs_ourDataset_small.png" width = "40%" height = "40%" >
-  <img src = "Results/CharCNN/cm_15epochs_ourDataset_large.png" width = "40%" height = "40%" >
+  <img src = "Results/WordCNN/cm_15epochs_small_ourDataset.png" width = "40%" height = "40%" >
+  <img src = "Results/WordCNN/cm_15epochs_large_ourDataset.png" width = "40%" height = "40%" >
 </p>
 
 - Author's Dataset
 
 <p float = "left">
-  <img src = "Results/CharCNN/cm_15epochs_author_small.png" width = "40%" height = "40%" >
-  <img src = "Results/CharCNN/cm_15epochs_author_large.png" width = "40%" height = "40%" >
+  <img src = "Results/WordCNN/cm_15epochs_small_author.png" width = "40%" height = "40%" >
+  <img src = "Results/WordCNN/cm_15epochs_large_author.png" width = "40%" height = "40%" >
 </p>
 
